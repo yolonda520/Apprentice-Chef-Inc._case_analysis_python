@@ -1,4 +1,5 @@
 # Apprentice-Chef-Inc._case_analysis_python
+## Date: 2020-3-15
 # Course Case: Apprentice Chef <br><br><br>
 ## Description:<br>
 Apprentice Chef, Inc. is an innovative company with a unique spin on cooking at home.
